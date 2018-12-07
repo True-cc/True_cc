@@ -5,3 +5,8 @@ Made the config (check the config for details)
 
 1.1
 Added ItemTeleport to teleport places where ther is no player, but it's recommended to use teleportHitT
+
+1.2
+Fixed a bug that when you would fall wtih Nofall, you would get kicked.
+Made it so that velocity actually works now.
+Sped up scaffold a bit.
